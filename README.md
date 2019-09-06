@@ -18,7 +18,7 @@ gcc main.c -o clipoly
 | XOR                | 5            |
 
 ## Input file
-Polygon data in input file must be in following format:
+Input file must be encoded in UTF-8 (without BOM) encoding and polygon data must be in following format:
 ```
 x,y,z
 x,y,z
